@@ -1,0 +1,7 @@
+{
+  "name": "AeroStudio Student Hub",
+  "description": "A high-fidelity student management dashboard for pole and aerial arts studios, featuring class booking, progress tracking, and membership management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
